@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/agora/static/css/main.073c9b0a.css",
+    "main.js": "/agora/static/js/main.60bf0560.js",
+    "index.html": "/agora/index.html",
+    "main.073c9b0a.css.map": "/agora/static/css/main.073c9b0a.css.map",
+    "main.60bf0560.js.map": "/agora/static/js/main.60bf0560.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.60bf0560.js"
+  ]
+}
