@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/agora/static/css/main.073c9b0a.css",
-    "main.js": "/agora/static/js/main.60bf0560.js",
+    "main.css": "/agora/static/css/main.3b888428.css",
+    "main.js": "/agora/static/js/main.831a8742.js",
     "index.html": "/agora/index.html",
-    "main.073c9b0a.css.map": "/agora/static/css/main.073c9b0a.css.map",
-    "main.60bf0560.js.map": "/agora/static/js/main.60bf0560.js.map"
+    "main.3b888428.css.map": "/agora/static/css/main.3b888428.css.map",
+    "main.831a8742.js.map": "/agora/static/js/main.831a8742.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.60bf0560.js"
+    "static/css/main.3b888428.css",
+    "static/js/main.831a8742.js"
   ]
 }
