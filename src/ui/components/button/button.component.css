@@ -1,0 +1,18 @@
+button.button-component {
+    width: 120px;
+    padding: 5px 5px;
+    border-radius: 3px;
+    background: var(--brown-500);
+    color: var(--white);
+    transition: 0.3s;
+}
+
+button.button-component:hover {
+    cursor: pointer;
+    background: var(--brown-500-hover);
+}
+
+button.button-component:disabled {
+    cursor: not-allowed;
+    filter: grayscale(100%);
+}

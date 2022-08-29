@@ -1,0 +1,8 @@
+export const USER_KEY = 'data'
+export const TOKEN = 'token'
+export const SELECTED = 'selected'
+export const START = 'start'
+export const CHEAT_SUCCESS_MSG = 'Cheat ativado com sucesso!'
+export const CHEAT_FAILED_MSG = 'Cheat invalido ou não há personagem selecionado'
+export const TURNOKEY = 'turnokey'
+export const TYPE_CHAR_NAME = 'Digite o nome do inimigo!'
