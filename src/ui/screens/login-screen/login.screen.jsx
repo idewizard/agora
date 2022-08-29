@@ -38,7 +38,7 @@ function Login(){
                 <input value={inputValues.login} name='login' type="text" className='login-input'
                    onChange={handleOnChange}/>
             </label>
-            <Button buttonType={"submit"} onClickFunction={}>ENTRAR</Button>
+            <Button buttonType={"submit"}>ENTRAR</Button>
         </div>
     )
 
